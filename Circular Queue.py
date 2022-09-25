@@ -35,7 +35,7 @@ class MyCircularQueue:
         
 
 
-# Your MyCircularQueue object will be instantiated and called as such:
+# MyCircularQueue object will be instantiated and called as such:
 # obj = MyCircularQueue(k)
 # param_1 = obj.enQueue(value)
 # param_2 = obj.deQueue()
