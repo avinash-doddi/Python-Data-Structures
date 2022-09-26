@@ -26,3 +26,4 @@ class Stack:
    
  #creating Object:
       
+obj = Stack(size = 10);
