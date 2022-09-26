@@ -17,6 +17,11 @@ class Stack:
       return 1;
     return 0;
   
+  def isFull(self):
+    if (self.size == self.maxsize):
+      return 1
+    return 0
+  
   def pop(self):
     if (self.size == 0): 
       print("Stack is Empty! Insert a few elements.");
@@ -26,4 +31,5 @@ class Stack:
    
  #creating Object:
       
-obj = Stack(size = 10);
+
+
