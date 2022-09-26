@@ -31,5 +31,9 @@ class Stack:
    
  #creating Object:
       
-
+obj = Stack(10);
+obj.push_back(1);
+obj.push_back(2);
+print(obj.isEmpty());
+obj.pop();
 
