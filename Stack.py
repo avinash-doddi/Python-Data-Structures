@@ -36,4 +36,6 @@ obj.push_back(1);
 obj.push_back(2);
 print(obj.isEmpty());
 obj.pop();
+print(obj.isEmpty());
+obj.pop();
 
